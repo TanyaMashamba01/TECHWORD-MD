@@ -1,8 +1,0 @@
-node_modules/
-.env
-session/
-auth_info_baileys/
-temp/
-tmp/
-*.log
-commands/temp/
