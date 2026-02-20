@@ -1,5 +1,5 @@
 /**
- * june x Bot - A WhatsApp Bot
+ * TECHWORD - MD - A WhatsApp Bot
  * Tennor-modz 
  * © 2025 supreme
  * * NOTE: This is the combined codebase. It handles cloning the core code from 
@@ -47,7 +47,7 @@ const { rmSync } = require('fs')
  * @param {boolean} [isError=false] - Whether to use console.error.
  */
 function log(message, color = 'white', isError = false) {
-    const prefix = chalk.magenta.bold('[ TRUTH - MD ]');
+    const prefix = chalk.magenta.bold('[ TECHWORD - MD ]');
     const logFunc = isError ? console.error : console.log;
     const coloredMessage = chalk[color](message);
     
